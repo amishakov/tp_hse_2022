@@ -38,7 +38,7 @@
 | 8 | Управление качеством ПО, ч.2 | [YouTube(предисловие)](https://youtu.be/t7rLxcOQXrM) [YouTube](https://youtu.be/uJUFQqtrPrI) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec8.pdf) | Тест №4 | *28 апреля* | *5 мая в 18:00* |
 | 9 | Принципы проектирования ПО, ч.1 | [YouTube](https://www.youtube.com/watch?v=PMVgPAlZQGc) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec9.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
 | 10 | Принципы проектирования ПО, ч.2 | [YouTube](https://www.youtube.com/watch?v=ZgDWK9PGxuU) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec10.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
-| 11 | Архитектурные паттерны | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec11.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
+| 11 | Архитектурные паттерны | [YouTube(1/2)](https://youtu.be/54JUwNgaa1Q) [YouTube(2/2)](https://youtu.be/yRi-HnTiLAk) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec11.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
 | 12 | Методологии разработки ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec12.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
 
 ## Содержание лекций
