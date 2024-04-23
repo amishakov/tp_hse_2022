@@ -39,7 +39,7 @@
 | 9 | Принципы проектирования ПО, ч.1 | [YouTube](https://www.youtube.com/watch?v=PMVgPAlZQGc) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec9.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
 | 10 | Принципы проектирования ПО, ч.2 | [YouTube](https://www.youtube.com/watch?v=ZgDWK9PGxuU) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec10.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
 | 11 | Архитектурные паттерны | [YouTube(1/2)](https://youtu.be/54JUwNgaa1Q) [YouTube(2/2)](https://youtu.be/yRi-HnTiLAk) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec11.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
-| 12 | Методологии разработки ПО | [YouTube(1/2)](https://www.youtube.com/watch?v=i0CpJxwsov8) [YouTube(2/2)](https://www.youtube.com/watch?v=2uOZOqg9oaQ) [Доп.1](https://www.youtube.com/watch?v=lRC5aygQSAA) [Доп.2](https://youtu.be/WIRBttZ_Wf8) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec12.pdf) [Доп.3](https://youtu.be/0Wo-pnxUrKY) | Тест №6 | *19 мая* | *26 мая в 18:00* |
+| 12 | Методологии разработки ПО | [YouTube(1/2)](https://www.youtube.com/watch?v=i0CpJxwsov8) [YouTube(2/2)](https://www.youtube.com/watch?v=2uOZOqg9oaQ) [Доп.1](https://www.youtube.com/watch?v=lRC5aygQSAA) [Доп.2](https://youtu.be/WIRBttZ_Wf8) [Доп.3](https://youtu.be/0Wo-pnxUrKY) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec12.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
 
 ## Содержание лекций
 
