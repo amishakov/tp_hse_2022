@@ -4,7 +4,9 @@
 
 ## [Канал курса в telegram](https://t.me/tp_hse_2024)
 
-## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1LN_IDu5P8tYCYinaayOqLxW8mEmnQzi6zDXKT45Ac-o/edit?usp=sharing)
+## [Рабочая ведомость по курсу (тесты + письменный экзамен)](https://docs.google.com/spreadsheets/d/1LN_IDu5P8tYCYinaayOqLxW8mEmnQzi6zDXKT45Ac-o/edit?usp=sharing)
+
+**Обратим внимание:** оценки по ТЗ ведут семинаристы
 
 # Аннотация
 
